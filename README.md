@@ -1,4 +1,4 @@
-# philosophers
+# Philosophers
 
 This project in c language is a training to multi-threads/multi-process programming with the use of mutex to resolve The dining philosophers problem.
 The dining philosophers problem is a famous problem in computer science used to illustrate common issues in concurrent programming. The problem was originally formulated in 1965 by Edsger Dijkstra, and is stated as follows:
